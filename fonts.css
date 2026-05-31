@@ -5,12 +5,6 @@
    font-style: normal;
 }
 @font-face {
-   font-family: "Montserrat Thin ExtraBold";
-   src: url("fonts/Montserrat SemiBold Italic.woff2") format("woff2");
-   font-weight: bold;
-   font-style: italic;
-}
-@font-face {
    font-family: "Montserrat";
    src: url("fonts/Montserrat Regular.woff2") format("woff2");
    font-weight: normal;
