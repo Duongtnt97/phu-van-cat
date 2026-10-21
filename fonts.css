@@ -1,14 +1,14 @@
 @font-face {
    font-family: "Montserrat";
-   src: url("fonts/Montserrat Italic.woff2") format("woff2");
-   font-weight: normal;
-   font-style: italic;
-}
-@font-face {
-   font-family: "Montserrat";
    src: url("fonts/Montserrat Bold.woff2") format("woff2");
    font-weight: bold;
    font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Italic.woff2") format("woff2");
+   font-weight: normal;
+   font-style: italic;
 }
 @font-face {
    font-family: "Montserrat";
@@ -48,15 +48,15 @@
 }
 @font-face {
    font-family: "Barlow Semi Condensed SemiBold";
-   src: url("fonts/Barlow Semi Condensed SemiBold.woff2") format("woff2");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Barlow Semi Condensed SemiBold";
    src: url("fonts/Barlow Semi Condensed SemiBold Italic.woff2") format("woff2");
    font-weight: bold;
    font-style: italic;
+}
+@font-face {
+   font-family: "Barlow Semi Condensed SemiBold";
+   src: url("fonts/Barlow Semi Condensed SemiBold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
 }
 @font-face {
    font-family: "Barlow Semi Condensed Medium";
@@ -84,8 +84,20 @@
 }
 @font-face {
    font-family: "SVN-Gilroy";
+   src: url("fonts/SVN-GilroyBold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "SVN-Gilroy";
    src: url("fonts/SVN-GilroyBoldItalic.woff2") format("woff2");
    font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "SVN-Gilroy";
+   src: url("fonts/SVN-GilroyItalic.woff2") format("woff2");
+   font-weight: normal;
    font-style: italic;
 }
 @font-face {
@@ -93,16 +105,4 @@
    src: url("fonts/SVN-Gilroy.woff2") format("woff2");
    font-weight: normal;
    font-style: normal;
-}
-@font-face {
-   font-family: "SVN-Gilroy";
-   src: url("fonts/SVN-GilroyBold.woff2") format("woff2");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "SVN-Gilroy";
-   src: url("fonts/SVN-GilroyItalic.woff2") format("woff2");
-   font-weight: normal;
-   font-style: italic;
 }
